@@ -1,1 +1,4 @@
-this is a secondextend file
+this is a SECOND file
+.
+
+it is rectified properly.
