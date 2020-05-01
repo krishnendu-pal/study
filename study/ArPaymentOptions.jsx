@@ -42,6 +42,20 @@ class ArPaymentOptions extends Component {
                                                     md={6}
                                                     className="text-right"
                                                 >
+                                                    Due Date :
+                                                </Col>
+                                                <Col
+                                                    md={6}
+                                                    className="text-left pl-0"
+                                                >
+                                                    2019 12 04
+                                                </Col>
+                                            </Row>
+                                             <Row>
+                                                <Col
+                                                    md={6}
+                                                    className="text-right"
+                                                >
                                                     Customer Name :
                                                 </Col>
                                                 <Col
@@ -51,7 +65,8 @@ class ArPaymentOptions extends Component {
                                                     XYZ
                                                 </Col>
                                             </Row>
-                                             <Row>
+                                            
+                                            <Row>
                                                 <Col
                                                     md={6}
                                                     className="text-right"
@@ -70,21 +85,6 @@ class ArPaymentOptions extends Component {
                                                     md={6}
                                                     className="text-right"
                                                 >
-                                                    Due Date :
-                                                </Col>
-                                                <Col
-                                                    md={6}
-                                                    className="text-left pl-0"
-                                                >
-                                                    2019 12 04
-                                                </Col>
-                                            </Row>
-                                           
-                                            <Row>
-                                                <Col
-                                                    md={6}
-                                                    className="text-right"
-                                                >
                                                     Effective Pay Date :
                                                 </Col>
                                                 <Col
@@ -94,7 +94,7 @@ class ArPaymentOptions extends Component {
                                                     2019 12 04
                                                 </Col>
                                             </Row>
-                                             <Row>
+                                            <Row>
                                                 <Col
                                                     md={6}
                                                     className="text-right"
@@ -122,7 +122,6 @@ class ArPaymentOptions extends Component {
                                                     $00.00
                                                 </Col>
                                             </Row>
-                                           
                                         </div>
                                         <div className="invTotalPayment">
                                             <Row>
