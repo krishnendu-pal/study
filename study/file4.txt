@@ -5,20 +5,7 @@
 </head>
 <body>
 
-<p> what cant h, now u can deelpcide</p>
-<h1>My First Heading</h1><p> here should file conflict</p>
-
-<p> sgsfg pdjgf gdfpg  dijgdg  digjdfgjd'p f'pgjdfgj </p>
-<h1>My First Heading</h1>
-
-<p> sgsfg pdjgf gdfpg  dijgdg  digjdfgjd'p f'pgjdfgj </p>
-<h1>My First Heading</h1>
-
-<p> sgsfg pdjgf gdfpg  dijgdg  digjdfgjd'p f'pgjdfgj </p>
-<h1>My First Heading</h1>
-<h1>My First Heading</h1>
-<p> here should file conflict</p>
-
+<h1>this is heading</h1>
 
 
 
