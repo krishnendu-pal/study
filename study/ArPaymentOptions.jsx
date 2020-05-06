@@ -71,16 +71,15 @@ class ArPaymentOptions extends Component {
                                                     md={6}
                                                     className="text-right"
                                                 >
-                                                    Due Date :
+                                                    Terms :
                                                 </Col>
                                                 <Col
                                                     md={6}
                                                     className="text-left pl-0"
                                                 >
-                                                    2019 12 04
+                                                    NET 60
                                                 </Col>
                                             </Row>
-                                           
                                             <Row>
                                                 <Col
                                                     md={6}
@@ -95,7 +94,7 @@ class ArPaymentOptions extends Component {
                                                     2019 12 04
                                                 </Col>
                                             </Row>
-                                             <Row>
+                                            <Row>
                                                 <Col
                                                     md={6}
                                                     className="text-right"
@@ -123,7 +122,6 @@ class ArPaymentOptions extends Component {
                                                     $00.00
                                                 </Col>
                                             </Row>
-                                           
                                         </div>
                                         <div className="invTotalPayment">
                                             <Row>
